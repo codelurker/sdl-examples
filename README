@@ -1,1 +1,15 @@
-To be written.
+These examples belong to a SDL crash course I did.
+
+What this is:
+
+    * A brief introduction to the SDL API written in a straight forward 
+      approach, so the participants can easily follow how the API works.
+
+What this is not:
+
+    * A good example of good coding practices
+        * Don't put everything in main()
+
+
+-- 
+Trygve Vea
